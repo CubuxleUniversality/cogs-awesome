@@ -1,0 +1,40 @@
+{
+	"storyName": "yooo",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "chap1",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"nilincident",
+			"pillager",
+			[
+		154,
+		47,
+		86
+			]
+		],
+		[
+			"bastion",
+			"brute",
+			[
+		99,
+		26,
+		0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bonus"
+}
